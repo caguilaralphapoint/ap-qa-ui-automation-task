@@ -1,6 +1,6 @@
 # UI Test Automation Assessment
 ## Overview
-This is a simple UI test automation assesment where you will find an automated test that you need to complete for a shopping web application using C# and Selenium. Please fork this repository and send the link to your solution.
+This is a simple UI test automation assesment where you will find an automated test that you need to complete for a shopping web application using C# and Selenium. Please clone this repository, create one repository with your solution and share the link.
 ## Getting Started
 ### Requirements
 * Visual Studio Code
@@ -20,13 +20,7 @@ Develop an automated test case for the shopping web application [Swag Labs](http
 1. Login with valid credentials
 2. Add two items to the shopping cart
 3. Go to the shopping cart
-4. Check the prices in the cart
-5. Click the checkout button
-6. Enter user information (first name, last name and zip code)
-7. Click the continue button
-8. Validate checkout page (price calculations)
-9. Click the finish button
-10. Confirm that the order has been submitted
+4. Check the prices in the cart for the two items
 
 **Add your test case in the file: tests/TestUI.cs**
 
